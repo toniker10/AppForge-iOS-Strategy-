@@ -6,7 +6,7 @@
 
 > **Note:** This is a portfolio project. AppForge Labs is a fictional company, and the data is a public Kaggle dataset.
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](dashboard.png).
 
 ---
 
